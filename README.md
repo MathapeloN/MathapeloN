@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Mathapelo Nyembe!
 - 👀 I’m interested in all things Tech & 4iR readiness :)
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on coding & digital skills
 - 📫 You can reach me on my email @mathapelo@afritechsolutions.com
 
